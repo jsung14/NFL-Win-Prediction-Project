@@ -1,0 +1,97 @@
+,week,day,rest_days,home_team,distance_travelled,opp,result,points_for,points_allowed,tot_yds,pass_yds,rush_yds,opp_tot_yds,opp_pass_yds,opp_rush_yds,team,year
+0,1,Sun,10 days,True,0.0,Miami Dolphins,L,10,17,349,188,161,256,182,74,Washington Commanders,2015
+1,2,Sun,7 days,True,0.0,St. Louis Rams,W,24,10,373,191,182,213,146,67,Washington Commanders,2015
+2,3,Thu,4 days,False,211.4634318634832,New York Giants,L,21,32,393,305,88,363,279,84,Washington Commanders,2015
+3,4,Sun,10 days,True,0.0,Philadelphia Eagles,W,23,20,417,290,127,320,233,87,Washington Commanders,2015
+4,5,Sun,7 days,False,533.9287338383509,Atlanta Falcons,L,19,25,270,219,51,418,242,176,Washington Commanders,2015
+5,6,Sun,7 days,False,211.4634318634832,New York Jets,L,20,34,225,191,34,474,253,221,Washington Commanders,2015
+6,7,Sun,7 days,True,0.0,Tampa Bay Buccaneers,W,31,30,355,305,50,479,289,190,Washington Commanders,2015
+7,9,Sun,14 days,False,370.6411379680818,New England Patriots,L,10,27,250,213,37,460,299,161,Washington Commanders,2015
+8,10,Sun,7 days,True,0.0,New Orleans Saints,W,47,14,510,301,209,350,192,158,Washington Commanders,2015
+9,11,Sun,7 days,False,322.0425196088735,Carolina Panthers,L,16,44,186,172,14,368,226,142,Washington Commanders,2015
+10,12,Sun,7 days,True,0.0,New York Giants,W,20,14,407,302,105,332,299,33,Washington Commanders,2015
+11,13,Mon,8 days,True,0.0,Dallas Cowboys,L,16,19,266,193,73,318,221,97,Washington Commanders,2015
+12,14,Sun,6 days,False,587.4111853472396,Chicago Bears,W,24,21,374,275,99,377,290,87,Washington Commanders,2015
+13,15,Sun,7 days,True,0.0,Buffalo Bills,W,35,25,431,308,123,452,212,240,Washington Commanders,2015
+14,16,Sat,6 days,False,140.39297003000726,Philadelphia Eagles,W,38,24,418,351,67,398,353,45,Washington Commanders,2015
+15,17,Sun,8 days,False,1169.8626957146248,Dallas Cowboys,W,34,23,437,291,146,512,412,100,Washington Commanders,2015
+16,1,Mon,10 days,True,0.0,Pittsburgh Steelers,L,16,38,384,329,55,437,290,147,Washington Commanders,2016
+17,2,Sun,6 days,True,0.0,Dallas Cowboys,L,23,27,432,350,82,380,278,102,Washington Commanders,2016
+18,3,Sun,7 days,False,211.4634318634832,New York Giants,W,29,27,403,313,90,457,337,120,Washington Commanders,2016
+19,4,Sun,7 days,True,0.0,Cleveland Browns,W,31,20,301,156,145,380,217,163,Washington Commanders,2016
+20,5,Sun,7 days,False,45.02922806001474,Baltimore Ravens,W,16,10,310,250,60,306,188,118,Washington Commanders,2016
+21,6,Sun,7 days,True,0.0,Philadelphia Eagles,W,27,20,493,263,230,239,145,94,Washington Commanders,2016
+22,7,Sun,7 days,False,382.7824898597039,Detroit Lions,L,17,20,413,283,130,344,250,94,Washington Commanders,2016
+23,8,Sun,7 days,False,387.1355048079721,Cincinnati Bengals,T,27,27,546,446,100,415,263,152,Washington Commanders,2016
+24,10,Sun,14 days,True,0.0,Minnesota Vikings,W,26,20,388,260,128,331,284,47,Washington Commanders,2016
+25,11,Sun,7 days,True,0.0,Green Bay Packers,W,42,24,515,364,151,424,340,84,Washington Commanders,2016
+26,12,Thu,4 days,False,1169.8626957146248,Dallas Cowboys,L,26,31,505,449,56,353,190,163,Washington Commanders,2016
+27,13,Sun,10 days,False,1951.9279650939995,Arizona Cardinals,L,23,31,333,246,87,369,281,88,Washington Commanders,2016
+28,14,Sun,7 days,False,140.39297003000726,Philadelphia Eagles,W,27,22,334,227,107,383,288,95,Washington Commanders,2016
+29,15,Mon,8 days,True,0.0,Carolina Panthers,L,15,26,335,306,29,438,290,148,Washington Commanders,2016
+30,16,Sat,5 days,False,587.4111853472396,Chicago Bears,W,41,21,478,270,208,458,318,140,Washington Commanders,2016
+31,17,Sun,8 days,True,0.0,New York Giants,L,10,19,284,246,38,332,171,161,Washington Commanders,2016
+32,1,Sun,10 days,True,0.0,Philadelphia Eagles,L,17,30,264,200,64,356,298,58,Washington Commanders,2017
+33,2,Sun,7 days,False,2282.907371774483,Los Angeles Rams,W,27,20,385,156,229,332,235,97,Washington Commanders,2017
+34,3,Sun,7 days,True,0.0,Oakland Raiders,W,27,10,472,356,116,128,96,32,Washington Commanders,2017
+35,4,Mon,8 days,False,923.632818459984,Kansas City Chiefs,L,20,29,331,220,111,429,261,168,Washington Commanders,2017
+36,6,Sun,13 days,True,0.0,San Francisco 49ers,W,26,24,419,325,94,335,250,85,Washington Commanders,2017
+37,7,Mon,8 days,False,140.39297003000726,Philadelphia Eagles,L,24,34,344,269,75,371,244,127,Washington Commanders,2017
+38,8,Sun,6 days,True,0.0,Dallas Cowboys,L,19,33,285,236,49,307,138,169,Washington Commanders,2017
+39,9,Sun,7 days,False,2299.7547504755757,Seattle Seahawks,W,17,14,244,193,51,437,289,148,Washington Commanders,2017
+40,10,Sun,7 days,True,0.0,Minnesota Vikings,L,30,38,394,313,81,406,304,102,Washington Commanders,2017
+41,11,Sun,7 days,False,954.9353635345961,New Orleans Saints,L,31,34,456,300,156,535,375,160,Washington Commanders,2017
+42,12,Thu,4 days,True,0.0,New York Giants,W,20,10,323,201,122,170,86,84,Washington Commanders,2017
+43,13,Thu,7 days,False,1169.8626957146248,Dallas Cowboys,L,14,38,280,224,56,275,93,182,Washington Commanders,2017
+44,14,Sun,10 days,False,2282.907371774483,Los Angeles Chargers,L,13,30,201,136,65,488,314,174,Washington Commanders,2017
+45,15,Sun,7 days,True,0.0,Arizona Cardinals,W,20,15,218,187,31,286,145,141,Washington Commanders,2017
+46,16,Sun,7 days,True,0.0,Denver Broncos,W,27,11,386,299,87,330,171,159,Washington Commanders,2017
+47,17,Sun,7 days,False,211.4634318634832,New York Giants,L,10,18,197,136,61,381,121,260,Washington Commanders,2017
+48,1,Sun,10 days,False,1951.9279650939995,Arizona Cardinals,W,24,6,429,247,182,213,145,68,Washington Commanders,2018
+49,2,Sun,7 days,True,0.0,Indianapolis Colts,L,9,21,334,269,65,281,177,104,Washington Commanders,2018
+50,3,Sun,7 days,True,0.0,Green Bay Packers,W,31,17,386,220,166,340,240,100,Washington Commanders,2018
+51,5,Mon,15 days,False,954.9353635345961,New Orleans Saints,L,19,43,283,244,39,447,349,98,Washington Commanders,2018
+52,6,Sun,6 days,True,0.0,Carolina Panthers,W,23,17,288,156,132,350,269,81,Washington Commanders,2018
+53,7,Sun,7 days,True,0.0,Dallas Cowboys,W,20,17,305,175,130,323,250,73,Washington Commanders,2018
+54,8,Sun,7 days,False,211.4634318634832,New York Giants,W,20,13,360,178,182,303,266,37,Washington Commanders,2018
+55,9,Sun,7 days,True,0.0,Atlanta Falcons,L,14,38,366,287,79,491,337,154,Washington Commanders,2018
+56,10,Sun,7 days,False,812.4313028941565,Tampa Bay Buccaneers,W,16,3,286,170,116,501,398,103,Washington Commanders,2018
+57,11,Sun,7 days,True,0.0,Houston Texans,L,21,23,278,154,124,320,181,139,Washington Commanders,2018
+58,12,Thu,4 days,False,1169.8626957146248,Dallas Cowboys,L,23,31,331,251,80,404,258,146,Washington Commanders,2018
+59,13,Mon,11 days,False,140.39297003000726,Philadelphia Eagles,L,13,28,235,131,104,436,306,130,Washington Commanders,2018
+60,14,Sun,6 days,True,0.0,New York Giants,L,16,40,288,204,84,402,175,227,Washington Commanders,2018
+61,15,Sun,7 days,False,631.721280060305,Jacksonville Jaguars,W,16,13,245,136,109,192,20,172,Washington Commanders,2018
+62,16,Sat,6 days,False,541.2995152547586,Tennessee Titans,L,16,25,292,131,161,291,192,99,Washington Commanders,2018
+63,17,Sun,8 days,True,0.0,Philadelphia Eagles,L,0,24,89,68,21,360,231,129,Washington Commanders,2018
+64,1,Sun,10 days,False,140.39297003000726,Philadelphia Eagles,L,27,32,398,370,28,436,313,123,Washington Commanders,2019
+65,2,Sun,7 days,True,0.0,Dallas Cowboys,L,21,31,255,208,47,474,261,213,Washington Commanders,2019
+66,3,Mon,8 days,True,0.0,Chicago Bears,L,15,31,356,287,69,298,208,90,Washington Commanders,2019
+67,4,Sun,6 days,False,211.4634318634832,New York Giants,L,3,24,176,121,55,389,225,164,Washington Commanders,2019
+68,5,Sun,7 days,True,0.0,New England Patriots,L,7,33,223,78,145,442,312,130,Washington Commanders,2019
+69,6,Sun,7 days,False,903.4573709480925,Miami Dolphins,W,17,16,311,166,145,271,187,84,Washington Commanders,2019
+70,7,Sun,7 days,True,0.0,San Francisco 49ers,L,0,9,154,50,104,283,146,137,Washington Commanders,2019
+71,8,Thu,4 days,False,906.1427125346323,Minnesota Vikings,L,9,19,216,131,85,434,273,161,Washington Commanders,2019
+72,9,Sun,10 days,False,283.33593111454843,Buffalo Bills,L,9,24,243,116,127,268,146,122,Washington Commanders,2019
+73,11,Sun,14 days,True,0.0,New York Jets,L,17,34,225,171,54,400,285,115,Washington Commanders,2019
+74,12,Sun,7 days,True,0.0,Detroit Lions,W,19,16,230,144,86,364,189,175,Washington Commanders,2019
+75,13,Sun,7 days,False,322.0425196088735,Carolina Panthers,W,29,21,362,114,248,278,213,65,Washington Commanders,2019
+76,14,Sun,7 days,False,669.4288465762692,Green Bay Packers,L,15,20,262,141,121,341,167,174,Washington Commanders,2019
+77,15,Sun,7 days,True,0.0,Philadelphia Eagles,L,27,37,352,251,101,415,258,157,Washington Commanders,2019
+78,16,Sun,7 days,True,0.0,New York Giants,L,35,41,361,281,80,552,346,206,Washington Commanders,2019
+79,17,Sun,7 days,False,1169.8626957146248,Dallas Cowboys,L,16,47,271,183,88,517,294,223,Washington Commanders,2019
+80,1,Sun,10 days,True,0.0,Philadelphia Eagles,W,27,17,239,159,80,265,208,57,Washington Commanders,2020
+81,2,Sun,7 days,False,1951.9279650939995,Arizona Cardinals,L,15,30,316,199,117,438,278,160,Washington Commanders,2020
+82,3,Sun,7 days,False,287.34751084324284,Cleveland Browns,L,20,34,309,206,103,300,142,158,Washington Commanders,2020
+83,4,Sun,7 days,True,0.0,Baltimore Ravens,L,17,31,343,274,69,350,206,144,Washington Commanders,2020
+84,5,Sun,7 days,True,0.0,Los Angeles Rams,L,10,30,108,70,38,429,300,129,Washington Commanders,2020
+85,6,Sun,7 days,False,211.4634318634832,New York Giants,L,19,20,337,251,86,240,108,132,Washington Commanders,2020
+86,7,Sun,7 days,True,0.0,Dallas Cowboys,W,25,3,397,189,208,142,59,83,Washington Commanders,2020
+87,9,Sun,14 days,True,0.0,New York Giants,L,20,23,402,365,37,350,184,166,Washington Commanders,2020
+88,10,Sun,7 days,False,382.7824898597039,Detroit Lions,L,27,30,464,375,89,372,267,105,Washington Commanders,2020
+89,11,Sun,7 days,True,0.0,Cincinnati Bengals,W,20,9,325,161,164,272,202,70,Washington Commanders,2020
+90,12,Thu,4 days,False,1169.8626957146248,Dallas Cowboys,W,41,16,338,156,182,247,187,60,Washington Commanders,2020
+91,13,Mon,11 days,False,181.94624751817997,Pittsburgh Steelers,W,23,17,318,273,45,326,305,21,Washington Commanders,2020
+92,14,Sun,6 days,False,2394.4450905481563,San Francisco 49ers,W,23,15,193,95,98,344,236,108,Washington Commanders,2020
+93,15,Sun,7 days,True,0.0,Seattle Seahawks,L,15,20,353,269,84,302,121,181,Washington Commanders,2020
+94,16,Sun,7 days,True,0.0,Carolina Panthers,L,13,20,386,278,108,280,167,113,Washington Commanders,2020
+95,17,Sun,7 days,False,140.39297003000726,Philadelphia Eagles,W,20,14,248,145,103,216,98,118,Washington Commanders,2020

@@ -1,0 +1,68 @@
+
+WILD CARD
+Accuracy: 0.6867945823927766
+Confusion Matrix:
+[[249 486]
+ [ 69 968]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.34      0.47       735
+           1       0.67      0.93      0.78      1037
+
+    accuracy                           0.69      1772
+   macro avg       0.72      0.64      0.63      1772
+weighted avg       0.71      0.69      0.65      1772
+
+
+DIVISION
+
+Accuracy: 0.5759109311740891
+Confusion Matrix:
+[[173 300]
+ [119 396]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.59      0.37      0.45       473
+           1       0.57      0.77      0.65       515
+
+    accuracy                           0.58       988
+   macro avg       0.58      0.57      0.55       988
+weighted avg       0.58      0.58      0.56       988
+
+
+CONF CHAMP
+Accuracy: 0.5105162523900574
+Confusion Matrix:
+[[132 121]
+ [135 135]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.49      0.52      0.51       253
+           1       0.53      0.50      0.51       270
+
+    accuracy                           0.51       523
+   macro avg       0.51      0.51      0.51       523
+weighted avg       0.51      0.51      0.51       523
+weighted avg       0.52      0.52      0.52       331
+
+
+weighted avg       0.83      0.75      0.73       165
+
+SUPER BOWL
+output
+Accuracy: 0.7709090909090909
+Confusion Matrix:
+[[143   0]
+ [ 63  69]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      1.00      0.82       143
+           1       1.00      0.52      0.69       132
+
+    accuracy                           0.77       275
+   macro avg       0.85      0.76      0.75       275
+weighted avg       0.84      0.77      0.76       275
