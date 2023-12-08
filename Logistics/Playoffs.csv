@@ -1,65 +1,65 @@
 ,Team,Year,Predicted Wins,Actual Wins
-0,Arizona Cardinals,2021,None,WildCard
-1,Arizona Cardinals,2022,None,None
-2,Atlanta Falcons,2021,None,None
-3,Atlanta Falcons,2022,None,None
-4,Baltimore Ravens,2021,Division,None
+0,Arizona Cardinals,2021,,WildCard
+1,Arizona Cardinals,2022,,
+2,Atlanta Falcons,2021,,
+3,Atlanta Falcons,2022,,
+4,Baltimore Ravens,2021,Division,
 5,Baltimore Ravens,2022,Division,WildCard
 6,Buffalo Bills,2021,SuperBowl,Division
 7,Buffalo Bills,2022,ConfChamp,Division
-8,Carolina Panthers,2021,None,None
-9,Carolina Panthers,2022,None,None
-10,Chicago Bears,2021,None,None
-11,Chicago Bears,2022,None,None
+8,Carolina Panthers,2021,,
+9,Carolina Panthers,2022,,
+10,Chicago Bears,2021,,
+11,Chicago Bears,2022,,
 12,Cincinnati Bengals,2021,ConfChamp,SuperBowl
 13,Cincinnati Bengals,2022,ConfChamp,ConfChamp
-14,Cleveland Browns,2021,None,None
-15,Cleveland Browns,2022,None,None
+14,Cleveland Browns,2021,,
+15,Cleveland Browns,2022,,
 16,Dallas Cowboys,2021,ConfChamp,WildCard
 17,Dallas Cowboys,2022,WildCard,Division
-18,Denver Broncos,2021,None,None
-19,Denver Broncos,2022,None,None
-20,Detroit Lions,2021,None,None
-21,Detroit Lions,2022,None,None
-22,Green Bay Packers,2021,None,Division
-23,Green Bay Packers,2022,None,None
-24,Houston Texans,2021,None,None
-25,Houston Texans,2022,None,None
-26,Indianapolis Colts,2021,WildCard,None
-27,Indianapolis Colts,2022,None,None
-28,Jacksonville Jaguars,2021,None,None
+18,Denver Broncos,2021,,
+19,Denver Broncos,2022,,
+20,Detroit Lions,2021,,
+21,Detroit Lions,2022,,
+22,Green Bay Packers,2021,,Division
+23,Green Bay Packers,2022,,
+24,Houston Texans,2021,,
+25,Houston Texans,2022,,
+26,Indianapolis Colts,2021,WildCard,
+27,Indianapolis Colts,2022,,
+28,Jacksonville Jaguars,2021,,
 29,Jacksonville Jaguars,2022,WildCard,Division
 30,Kansas City Chiefs,2021,WildCard,ConfChamp
 31,Kansas City Chiefs,2022,ConfChamp,SuperBowlW
-32,Las Vegas Raiders,2021,None,WildCard
-33,Las Vegas Raiders,2022,None,None
-34,Los Angeles Chargers,2021,None,None
-35,Los Angeles Chargers,2022,None,WildCard
-36,Los Angeles Rams,2021,None,SuperBowlW
-37,Los Angeles Rams,2022,None,None
-38,Miami Dolphins,2021,None,None
-39,Miami Dolphins,2022,None,WildCard
-40,Minnesota Vikings,2021,None,None
-41,Minnesota Vikings,2022,None,WildCard
+32,Las Vegas Raiders,2021,,WildCard
+33,Las Vegas Raiders,2022,,
+34,Los Angeles Chargers,2021,,
+35,Los Angeles Chargers,2022,,WildCard
+36,Los Angeles Rams,2021,,SuperBowlW
+37,Los Angeles Rams,2022,,
+38,Miami Dolphins,2021,,
+39,Miami Dolphins,2022,,WildCard
+40,Minnesota Vikings,2021,,
+41,Minnesota Vikings,2022,,WildCard
 42,New England Patriots,2021,WildCard,WildCard
-43,New England Patriots,2022,None,None
-44,New Orleans Saints,2021,WildCard,None
-45,New Orleans Saints,2022,None,None
-46,New York Giants,2021,None,None
-47,New York Giants,2022,None,Division
-48,New York Jets,2021,None,None
-49,New York Jets,2022,None,None
+43,New England Patriots,2022,,
+44,New Orleans Saints,2021,WildCard,
+45,New Orleans Saints,2022,,
+46,New York Giants,2021,,
+47,New York Giants,2022,,Division
+48,New York Jets,2021,,
+49,New York Jets,2022,,
 50,Philadelphia Eagles,2021,Division,WildCard
 51,Philadelphia Eagles,2022,Division,SuperBowl
-52,Pittsburgh Steelers,2021,None,WildCard
-53,Pittsburgh Steelers,2022,None,None
-54,San Francisco 49ers,2021,None,ConfChamp
+52,Pittsburgh Steelers,2021,,WildCard
+53,Pittsburgh Steelers,2022,,
+54,San Francisco 49ers,2021,,ConfChamp
 55,San Francisco 49ers,2022,Division,ConfChamp
-56,Seattle Seahawks,2021,WildCard,None
-57,Seattle Seahawks,2022,None,WildCard
+56,Seattle Seahawks,2021,WildCard,
+57,Seattle Seahawks,2022,,WildCard
 58,Tampa Bay Buccaneers,2021,SuperBowlW,Division
-59,Tampa Bay Buccaneers,2022,None,WildCard
+59,Tampa Bay Buccaneers,2022,,WildCard
 60,Tennessee Titans,2021,Division,Division
-61,Tennessee Titans,2022,None,None
-62,Washington Commanders,2021,None,None
-63,Washington Commanders,2022,None,None
+61,Tennessee Titans,2022,,
+62,Washington Commanders,2021,,
+63,Washington Commanders,2022,,
