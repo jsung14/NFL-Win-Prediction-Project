@@ -2,7 +2,6 @@
 
 ## Introduction
 This project aims to predict win percentages for all NFL Teams in the 2021 and 2022 seasons, based off of their performance in the past 5 years (2015-2020). 
-Problem Definition
 Upwards of 73 million Americans place bets on the NFL each year, and there are more than 184m NFL fans. All of these fans place bets on their favorite teams either through sports betting platforms, or on family dinner tables. Thus, accurately predicting win percentages for all teams is a problem that 184m Americans face, and this is the problem we are trying to solve. 
 ## Datasets
 Our data consists of eight years (2015-2022) worth of statistics from NFL statistics. Our training data is the first six years: 2015-2020, and our training data is 2021 and 2022. All of our data has been scraped from the pro-football-reference.com. 
